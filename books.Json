@@ -1,0 +1,112 @@
+[
+  {
+    "bookImg": "https://i.postimg.cc/8CDr8DQV/history-1.jpg",
+    "bookTitle": "Black Like Me",
+    "authorName": "John Howard Griffin",
+    "authorEmail": "johnhoward.griffin@gmail.com",
+    "category": "History",
+    "rating": 4.3,
+    "quantity": 0,
+    "shortDescription": "A white journalist lives as a Black man to expose racism in the 1950s South.",
+    "bookContent": "Black Like Me follows John Howard Griffin as he darkens his skin to live as a Black man in the segregated South, revealing the deep racism and injustice Black Americans faced every day."
+  },
+  {
+    "bookImg": "https://i.postimg.cc/Xq0z0p8g/thriller-2.jpg",
+    "bookTitle": "Mrs. Harris",
+    "authorName": "Diana Trilling",
+    "authorEmail": "diana.trilling@gamil.com",
+    "category": "Thriller",
+    "rating": 4.8,
+    "quantity": 5,
+    "shortDescription": "A woman’s murder trial shakes the nation after the killing of a famous doctor in New York.",
+    "bookContent": "This true crime story follows Jean Harris, who stood trial for killing Dr. Herman Tarnower, her lover and creator of the Scarsdale Diet, revealing a dramatic case of love, betrayal, and media frenzy."
+  },
+  {
+    "bookImg": "https://i.postimg.cc/PxbVmgyD/novel-3.jpg",
+    "bookTitle": "The Rebels of Ireland",
+    "authorName": "Edward Rutherfurd",
+    "authorEmail": "edward.rutherfurd@gmail.com",
+    "category": "Novel",
+    "rating": 4.5,
+    "quantity": 7,
+    "shortDescription": "Irish families face conquest, rebellion, and survival during England’s rule over Ireland.",
+    "bookContent": "The Rebels of Ireland continues the Dublin Saga, following generations of Irish families as they struggle with faith, loyalty, and resistance during the English conquest and the tragic fight for freedom."
+  },
+  {
+    "bookImg": "https://i.postimg.cc/GhfKs3RN/drama-4.jpg",
+    "bookTitle": "The Deathly Hallows",
+    "authorName": "J.K. Rowling",
+    "authorEmail": "jk.rowling@gamil.com",
+    "category": "Drama",
+    "rating": 4.1,
+    "quantity": 0,
+    "shortDescription": "Harry faces his final battle against Voldemort in a quest to destroy the Dark Lord forever.",
+    "bookContent": "The Deathly Hallows follows Harry, Ron, and Hermione as they hunt Horcruxes, uncover Dumbledore’s secrets, and prepare for the ultimate showdown at Hogwarts that will decide the fate of the wizarding world."
+  },
+  {
+    "bookImg": "https://i.postimg.cc/cHNdm8qb/sci-fi-5.jpg",
+    "bookTitle": "Aunt Tigress",
+    "authorName": "Yu-Xuan Qin, Emily",
+    "authorEmail": "yu-xuanqin.emily@gamil.com",
+    "category": "Sci-Fi",
+    "rating": 4.6,
+    "quantity": 3,
+    "shortDescription": "A young girl’s quiet life changes when her fierce and mysterious Aunt Tigress arrives.",
+    "bookContent": "Aunt Tigress tells the story of a girl whose world is shaken by her aunt’s arrival—an elegant, powerful woman with a wild past—revealing secrets, strength, and a deep bond between generations."
+  },
+  {
+    "bookImg": "https://i.postimg.cc/rpNPBd0b/thriller-6.jpg",
+    "bookTitle": "The Edge",
+    "authorName": "Catherine Coulter",
+    "authorEmail": "catherine.coulter@gmail.com",
+    "category": "Thriller",
+    "rating": 4.2,
+    "quantity": 9,
+    "shortDescription": "An FBI agent searches for his missing sister and uncovers dark secrets on the coast.",
+    "bookContent": "The Edge follows FBI agent Ford MacDougal as he investigates his sister’s disappearance after a car crash, leading him to a sleepy coastal town hiding danger, mystery, and deadly secrets."
+  },
+  {
+    "bookImg": "https://i.postimg.cc/qqTX4wPx/history-7.jpg",
+    "bookTitle": "Spitfires",
+    "authorName": "Becky Aikman",
+    "authorEmail": "becky.aikman@gmail.com",
+    "category": "History",
+    "rating": 4.4,
+    "quantity": 4,
+    "shortDescription": "American women pilots defy danger and stereotypes during World War II.",
+    "bookContent": "FSpitfires tells the inspiring true story of courageous American women who flew military aircraft in World War II, breaking barriers and risking their lives to serve their country in the skies."
+  },
+  {
+    "bookImg": "https://i.postimg.cc/2SVvpgqf/drama-8.jpg",
+    "bookTitle": "Nineteen Minutes",
+    "authorName": "Jodi Picoult",
+    "authorEmail": "jodi.picoult@gmail.com",
+    "category": "Drama",
+    "rating": 4.0,
+    "quantity": 0,
+    "shortDescription": "A school shooting shatters a town and uncovers painful truths about justice and identity.",
+    "bookContent": "Nineteen Minutes explores the impact of a tragic school shooting in a quiet town, as a judge’s daughter struggles with memory, and the community wrestles with guilt, blame, and what it truly means to belong."
+  },
+  {
+    "bookImg": "https://i.postimg.cc/W48KgMMq/sci-fi-9.jpg",
+    "bookTitle": "Taming Flame",
+    "authorName": "Therisa Peimer",
+    "authorEmail": "therisa.peimer@gmail.com",
+    "category": "Sci-Fi",
+    "rating": 4.7,
+    "quantity": 6,
+    "shortDescription": "Flaminius and Aurelia, genetically matched to save their people, face deadly threats and palace intrigue.",
+    "bookContent": "Flaminius must claim his throne alongside his fierce wife Aurelia, as they navigate assassination attempts, mysterious deaths, and a violent cult threatening their world—all while fighting to protect their future."
+  },
+  {
+    "bookImg": "https://i.postimg.cc/sDzN66wG/novel-10.jpg",
+    "bookTitle": "Wings of Fire",
+    "authorName": " Tui T. Sutherland",
+    "authorEmail": " tuit.sutherland@gmail.com",
+    "category": "Novel",
+    "rating": 4.6,
+    "quantity": 7,
+    "shortDescription": "Starflight uncovers dark secrets about his tribe while trying to escape and save two kingdoms.",
+    "bookContent": "Starflight is captured by the NightWings and discovers their harsh truth, including imprisoned RainWings. Stranded, he must be brave to escape and protect the fate of two kingdoms."
+  }
+]
